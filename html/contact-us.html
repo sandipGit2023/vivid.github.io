@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta name="wap-font-scale" content="no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=yes" />
+    <meta name="Robots" content="all">
+    <meta name="Author"
+        content="Foshan Yige Technology specializes in providing foreign trade website construction, Google SEM promotion, Google SEO ranking optimization, and Facebook & YouTube operation and promotion services." />
+    <link rel="shortcut icon" href="" type="image/x-icon" />
+    <title>vivid</title>
+    <link rel="stylesheet" href="../Public/css/all.css">
+    <link rel="stylesheet" href="../Public/css/iconfont.css">
+    <link rel="stylesheet" href="../Public/css/core.css">
+    <link rel="stylesheet" href="../Public/css/tooltip-curved.css">
+    <link rel="stylesheet" href="../Public/css/main.css">
+    <script src="../Public/js/jquery.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="../Public/css/toastr.min.css">
+	<script type="text/javascript" src="../Public/js/toastr.min.js"></script>
+
+    <script src="../Public/js/smtp.js"></script>
+
+    <style>
+        #section5 .title {
+            background-color: rgba(101, 161, 221, .7);
+        }
+
+        #sectionMain .container {
+            max-width: 1200px;
+        }
+        .toast-message{
+            font-size: 17px !important;
+        }
+    </style>
+    <style>
+        @media (min-width: 1025px) {
+            yige-header .navs .header-nav .top>li {
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+        }
+
+        @media (max-width: 1025px) {
+            #PCEN a {
+                min-height: 50px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <yige-header>
+        <div class="navs">
+            <div class="container">
+                <div class="row">
+                    <div class="wap-nav clearfix">
+                        <div class="clearfix">
+                            <div class="col-md-2 top-left" style="padding-right: 0px;">
+                                <div class="wpl pull-left">
+                                    <h1><a class="logo" href="#" title="vvid">
+                                        <img src="https://drive.google.com/uc?export=view&id=1oeD9s6yo13pXOrRlNZlUFcksnRjuHKaG"
+                                            alt="vvid" width="150px"></a>
+                                    </h1>
+                                    <div class="navbar-toggle">
+                                        <span></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-9">
+                                <div class="wnl pull-right clearfix">
+                                    <div class="header-nav pull-left products-list">
+                                        <ul class="top">
+                                            <li class=""><a href="./index.html" title="vvid" class="m-menu">Home</a>
+                                            </li>
+                                            <li class=" hover" data-id="73" id="categories">
+                                                <a href="./products.html" title="Products"
+                                                    class="m-menu">Products <i class="iconfont icon-right-triangle"></i>
+                                                </a>
+                                                <div class="subMenu" id="73" data-id="73">
+                                                    <ul class="wrap" id="cat-product"></ul>
+                                                </div>
+                                                <div class="iphoneXS" id="iphoneXS">
+                                                    <span class="submenu-button"></span>
+                                                    <ul class="sub-menu"></ul>
+                                                </div>
+                                            </li>
+                                            <li class=" hover">
+                                                <a href="./about-us.html" title="Contact Us"
+                                                    class="m-menu">About Us </a>
+                                                <div class="iphoneXS" id="iphoneXS">
+                                                </div>
+                                            </li>
+                                            <li class=" hover">
+                                                <a href="./contact-us.html" title="Contact Us"
+                                                    class="m-menu">Contact Us </a>
+                                                <div class="iphoneXS" id="iphoneXS">
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </yige-header>
+    <yige-banner-img>
+        <div class="img">
+            <img src="https://en.dtcdtc.com/Uploads/202112/1577499815.jpg" alt="Contact Us" style="width: 100%;" />
+            <div class="yy">
+                <div class="container">
+                    <div class="row">
+                        <div class="total col-md-12">
+                            <h2>Contact Us</h2>
+                            <ul>
+                                <li>
+                                    <a href="./index.html" title="Contact Us">
+                                        Home <i class="iconfont icon-right"></i>
+                                    </a>
+                                </li>
+                                <li><a>Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </yige-banner-img>
+    <section>
+        <div class="yige-contact">
+            <div class="container">
+                <div class="row">
+                    <div class="total col-md-12">
+                        <style type="text/css">
+                            img {
+                                max-width: 100%;
+                                height: auto;
+                            }
+                        </style>
+                        <div class="title col-md-12 wow fadeInUp">
+                            <h2><strong id="contact-title"></strong></h2>
+                            <p id="contact-description"></p>
+                        </div>
+
+                        <!-- <div class="img col-md-12 wow fadeInUp"><img alt=""
+                                src="https://en.dtcdtc.com/Public/www/images/emap.jpg" /></div> -->
+                        <div class="total-form col-md-12 wow fadeInUp" style="padding-top: 5rem;">
+                            <div class="left col-md-8">
+                                <div class="title col-md-12">
+                                    <h3>Message </h3>
+                                    <p class="pp">Please fill in the fields below. </p>
+                                </div>
+                                <div class="total col-md-12">
+                                    <form name="form" method="post" id="contact_form" class="bs-example bs-example-form" role="form"  onsubmit="return beforeSubmit2(this);">
+                                        <div class="col-md-6" style="padding-right: 15px;">
+                                            <label for="name">Name</label>
+                                            <input type="text" class="form-control" name="name" placeholder="Name">
+                                        </div>
+                                        <div class="col-md-6" style="padding-left: 15px;">
+                                            <label for="emall">Email</label>
+                                            <input type="text" class="form-control" name="email" placeholder="Email">
+                                        </div>
+                                        <div class="col-md-12" style="margin-top: 10px;">
+                                            <label>Message </label>
+                                            <textarea class="form-control" name="message"
+                                                placeholder="Write something ..." style="height: 82px;"></textarea>
+                                            <button
+                                                class="button button--nina button--round-l button--text-thick button--inverted"
+                                                data-text="Send Message">
+                                                Send Message </button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="right col-md-4">
+                                <div class="title col-md-12">
+                                    <h3>Contacts </h3>
+                                    <p class="pp">Information </p>
+                                </div>
+                                <div class="total col-md-12" id="contact-me">
+                                    <ul class="text-list">
+                                        <li>
+                                            <b>Address：</b>
+                                            <span class="address"></span>
+                                        </li>
+                                        <li>
+                                            <b>Web：</b>
+                                            <a href="" title="site_url" class="site-url" target="_blank"></a>
+                                        </li>
+                                        <li class="cpr" onclick="openFooterEmail()">
+                                            <b>Email：</b>
+                                            <span class="email"></span>
+                                        </li>
+                                        <li class="cpr" onclick="openFooterPhone()">
+                                            <b>Phone：</b>
+                                            <span class="phone-number"></span>
+                                        </li>
+                                    </ul>
+                                    <ul class="icon social-media"></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <yige-footer>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="yige-total">
+                        <div class="a">
+                            <h3>Company Address</h3>
+                            <ul>
+                                <li><p class="footer-address" style="max-width: 80%;"></p></li>
+                                <li><a href="javascript:void(0);" class="cpr phone-click" onclick="openFooterPhone()">Phone : <span class="footer-phone-number"></span> </a></li>
+                                <li><a href="javascript:void(0);" class="cpr email-click" onclick="openFooterEmail()">Email : <span class="footer-email"></span> </a></li>
+                            </ul>
+                        </div>
+                        <div class="a">
+                            <h3>Solutions by <span class="company-name">vivid</span></h3>
+                            <ul><li style="text-align: center;"><a title="" class="footer-solution"></a></li></ul>
+                        </div>
+                        <div class="a list-a">
+                            <h3>Social Media</h3>
+                            <ul class="footer-social"></ul>
+                        </div>
+                    </div>
+                    <div class="yige-title" style="text-align: center;">
+                        <p>Copyright © <script>document.write(new Date().getFullYear())</script> vvid All Rights Reserved. | Privacy |</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-top"><span class="iconfont icon-up"></span></div>
+    </yige-footer>
+</body>
+<script src="../Public/js/all.js"></script>
+<script src="../Public/js/main.js"></script>
+<script src="../Public/js/jquery.md5.js"></script>
+<script>
+    $(function () {
+        toastr.options = {
+            'closeButton': true,
+            'debug': false,
+            'newestOnTop': false,
+            'progressBar': true,
+            'positionClass': 'toast-top-right',
+            'preventDuplicates': false,
+            'showDuration': '1000',
+            'hideDuration': '1000',
+            'timeOut': '5000',
+            'extendedTimeOut': '1000',
+            'showEasing': 'swing',
+            'hideEasing': 'linear',
+            'showMethod': 'fadeIn',
+            'hideMethod': 'fadeOut',
+        }
+
+        function lanjiazai() {
+            for (var i = 0; i <= $('body').find("img").length - 1; i++) {
+                obj = $('body').find("img:eq(" + i + ")");
+                obj.offset().top;
+                wh = $(window).height();
+                $(document).scrollTop();
+                var xh = wh - (obj.offset().top - $(document).scrollTop());
+                var srcbooleans = typeof (obj.attr("src")) == "undefined" || obj.attr("src") == "";
+                if (xh > 0 && srcbooleans) {
+                    var yigesrc = $('body').find("img:eq(" + i + ")").attr("yige-src");
+                    $('body').find("img:eq(" + i + ")").attr("src", yigesrc)
+                }
+            }
+        }
+        $(document).scroll(function () {
+            lanjiazai();
+        })
+        lanjiazai()
+
+        //header dynamic cat and product
+        fetch('../Json/catagorys.json')
+            .then(res => res.json())
+            .then(data => {
+                let { catagorys } = data;
+                catagorys.map((cat,i) => {
+                    if(i <= 5){
+                        $('.iphoneXS .sub-menu').append(
+                            `<li class="asds">
+                                <a href="./categories-products.html" class="category-prodcuts" data-cat-id="${cat.id}" title="${cat.name}">${cat.name}</a>
+                            </li>`
+                        )
+
+                        $("#cat-product").append(
+                            `<li class="wrap-a">
+                                <a href="./categories-products.html" class="hrefa category-prodcuts" data-cat-id="${cat.id}" title="${cat.uuid}">${cat.name}</a>
+                                <ul class="wrap-b">
+                                    ${cat.products.map((pro,i) =>{
+                                        if (i < 11) {
+                                            return (`<li class="asds">
+                                                    <a href="./single-product.html" class="view-product" data-product-id="${pro.id}" title="${pro.title}">${pro.name}</a>
+                                                    <i class="iconfont icon-right"></i>
+                                                </li>`)
+                                        }
+
+                                        if (i == 11) {
+                                            return (`<li class="asds">
+                                                <a href="./categories-products.html" class="category-prodcuts" data-cat-id="${cat.id}" title="${cat.name}">View All</a>
+                                                <i class="iconfont icon-right"></i>
+                                            </li>`)
+                                        }
+                                    }).join('')}
+                                </ul>
+                            </li>`
+                        );
+                    }
+                });
+            })
+
+        fetch('../Json/contact.json')
+            .then(res => res.json())
+            .then(data => {
+                $("#contact-title").text(data.header.title);
+                $("#contact-description").text(data.header.description);
+
+                $(".address").text(data.contacts.address);
+                $(".site-url").text(data.contacts.web);
+                $(".email").text(data.contacts.email);
+                $(".phone-number").text(data.contacts.phone);
+
+                data.social.map((soc, i) => {
+                    $(".social-media").append(
+                        ` <li style="${soc.name == 'facebook' ? 'margin-right: 15px;' : ''}">
+                            <a href="${soc.url}"
+                                title="${soc.name}"
+                                target="_blank">
+                                <i class="${soc.icon}"></i>
+                            </a>
+                        </li>`
+                    )
+                })
+            });
+    })
+</script>
+
+</html>

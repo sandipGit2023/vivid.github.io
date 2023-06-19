@@ -1,0 +1,832 @@
+{
+    "catagorys": [
+        {
+            "id": "_cat1",
+            "uuid": "drawer_system",
+            "name": "Drawer System",
+            "image": "https://drive.google.com/uc?export=view&id=1G3PpPrCxdy6xJrYL5xyyPm_1-fd5BlVv",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c1p1",
+                    "name": "Slim Tandem Drawer Box ( 88 mm )",
+                    "title": "Slim Tandem Drawer Box ( 88 mm )",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.ST.088"
+                },
+                {
+                    "id": "_c1p2",
+                    "name": "Slim Tandem Drawer Box ( 120 mm )",
+                    "title": "Slim Tandem Drawer Box ( 120 mm )",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.ST.120"
+                },
+                {
+                    "id": "_c1p3",
+                    "name": "Slim Tandem Drawer Box ( 170 mm )",
+                    "title": "Slim Tandem Drawer Box ( 170 mm )",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.ST.170"
+                },
+                {
+                    "id": "_c1p4",
+                    "name": "Regular Tandem Drawer Box without Gallery",
+                    "title": "Regular Tandem Drawer Box without Gallery",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.RT.004"
+                },
+                {
+                    "id": "_c1p5",
+                    "name": "Regular Tandem Drawer Box with Gallery",
+                    "title": "Regular Tandem Drawer Box with Gallery",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.RT.006"
+                },
+                {
+                    "id": "_c1p6",
+                    "name": "Regular Tandem Drawer Box Double Gallery",
+                    "title": "Regular Tandem Drawer Box with Gallery",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.RT.008"
+                }
+            ]
+        },
+        {
+            "id": "_cat2",
+            "uuid": "tandem_accessories",
+            "name": "Tandem Accessories",
+            "image": "https://drive.google.com/uc?export=view&id=1SpABmlcY9_3zWjNFtt1t31GX7sWNs5r2",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c2p1",
+                    "name": "Cup Saucer Insert",
+                    "title": "Cup Saucer Insert",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.TACS.001"
+                },
+                {
+                    "id": "_c2p2",
+                    "name": "Plate Insert",
+                    "title": "Plate Insert",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.TAPT.002"
+                },
+                {
+                    "id": "_c2p3",
+                    "name": "Cutlery Tray",
+                    "title": "Cutlery Tray",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.TACT.500"
+                },
+                {
+                    "id": "_c2p4",
+                    "name": "Anti Skid Mat",
+                    "title": "Anti Skid Mat",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.MATT.004"
+                }
+            ]
+        },
+        {
+            "id": "_cat3",
+            "uuid": "kitchen_organizer",
+            "name": "Kitchen Organizer",
+            "image": "https://drive.google.com/uc?export=view&id=1iOASsy2-eUKrwIFDRVstg0ZfbIsEGf_l",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c3p1",
+                    "name": "Swing Tray",
+                    "title": "Swing Tray",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.GRST"
+                },
+                {
+                    "id": "_c3p2",
+                    "name": "Pantry Unit",
+                    "title": "Pantry Unit",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.GRPU"
+                },
+                {
+                    "id": "_c3p3",
+                    "name": "Pantry Unit",
+                    "title": "Pantry Unit",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SSPU"
+                },
+                {
+                    "id": "_c3p4",
+                    "name": "Show Hand Corner",
+                    "title": "Show Hand Corner",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.GRSH"
+                },
+                {
+                    "id": "_c3p5",
+                    "name": "Tendem Bottle Pullout",
+                    "title": "Tendem Bottle Pullout",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.GRBP"
+                },
+                {
+                    "id": "_c3p6",
+                    "name": "Rolling Shutter",
+                    "title": "Rolling Shutter",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.PVRS"
+                },
+                {
+                    "id": "_c3p7",
+                    "name": "Wicker Basket",
+                    "title": "Wicker Basket",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.PVWB"
+                },
+                {
+                    "id": "_c3p8",
+                    "name": "Dustbin",
+                    "title": "Dustbin",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SSDB"
+                },
+                {
+                    "id": "_c3p9",
+                    "name": "Westbin",
+                    "title": "Westbin",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.GRDB"
+                },
+                {
+                    "id": "_c3p10",
+                    "name": "Elevator Basket",
+                    "title": "Elevator Basket",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.GREL"
+                }
+            ]
+        },
+        {
+            "id": "_cat4",
+            "uuid": "hinges_series",
+            "name": "Hinges Series",
+            "image": "https://drive.google.com/uc?export=view&id=1On70VhL3DT2gw69e5eGD3II3XlLXX1yF",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c4p1",
+                    "name": "Auto Hinges Without Soft Close",
+                    "title": "Auto Hinges Without Soft Close",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.MSAH"
+                },
+                {
+                    "id": "_c4p2",
+                    "name": "Auto Hinges With Soft Close",
+                    "title": "Auto Hinges With Soft Close",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.MSHH"
+                },
+                {
+                    "id": "_c4p3",
+                    "name": "3D Auto Hinges With Soft Close",
+                    "title": "3D Auto Hinges With Soft Close",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.3DHH"
+                },
+                {
+                    "id": "_c4p4",
+                    "name": "SS Auto Hinges With Soft Close",
+                    "title": "SS Auto Hinges With Soft Close",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SSHH"
+                },
+                {
+                    "id": "_c4p5",
+                    "name": "SS Thickdoor Auto Hinges With Soft Close",
+                    "title": "SS Thickdoor Auto Hinges With Soft Close",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SSTD"
+                },
+                {
+                    "id": "_c4p6",
+                    "name": "Corner Auto Hinges With Soft Close",
+                    "title": "Corner Auto Hinges With Soft Close",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.M165"
+                },
+                {
+                    "id": "_c4p7",
+                    "name": "Pi Auto Hinges Without Soft Close",
+                    "title": "Pi Auto Hinges Without Soft Close",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.M135"
+                }
+            ]
+        },
+        {
+            "id": "_cat5",
+            "uuid": "sliding_solution",
+            "name": "Sliding Solution",
+            "image": "https://drive.google.com/uc?export=view&id=1zgMZDmG2yFhg23Ycc-kgLZHwjJUUfibT",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c5p1",
+                    "name": "Sliding Wardrobe Runner",
+                    "title": "Sliding Wardrobe Runner",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.HVRU"
+                },
+                {
+                    "id": "_c5p2",
+                    "name": "Sky Track Runner back Screw (35 Kg)",
+                    "title": "Sky Track Runner back Screw (35 Kg)",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.BSSD"
+                },
+                {
+                    "id": "_c5p3",
+                    "name": "Sky Track Runner back Screw (40 Kg)",
+                    "title": "Sky Track Runner back Screw (40 Kg)",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.BS3S"
+                },
+                {
+                    "id": "_c5p4",
+                    "name": "Sky Track Runner With Brush ( 35 Kg )",
+                    "title": "Sky Track Runner With Brush ( 35 Kg )",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.WBSD"
+                },
+                {
+                    "id": "_c5p5",
+                    "name": "Sky Track Runner With Brush ( 40 Kg )",
+                    "title": "Sky Track Runner With Brush ( 40 Kg )",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.WB3S"
+                },
+                {
+                    "id": "_c5p6",
+                    "name": "Universal Sky Track Runner",
+                    "title": "Universal Sky Track Runner",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.M135"
+                },
+                {
+                    "id": "_c5p7",
+                    "name": "Sky Track Sliding Profile",
+                    "title": "Sky Track Sliding Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SLST"
+                },
+                {
+                    "id": "_c5p8",
+                    "name": "Dobuble Door Sliding Runner",
+                    "title": "Dobuble Door Sliding Runner",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.DDRG"
+                },
+                {
+                    "id": "_c5p9",
+                    "name": "Dobuble Door Sliding Runner With Soft Close",
+                    "title": "Dobuble Door Sliding Runner With Soft Close",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.DDSC"
+                },
+                {
+                    "id": "_c5p10",
+                    "name": "Dobuble Door Sliding Track",
+                    "title": "Dobuble Door Sliding Track",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SLDD"
+                },
+                {
+                    "id": "_c5p11",
+                    "name": "Sliding Door Sliding Runner",
+                    "title": "Sliding Door Sliding Runner",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SDSR"
+                },
+                {
+                    "id": "_c5p12",
+                    "name": "Sliding Door Sliding Track",
+                    "title": "Sliding Door Sliding Track",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SLSD"
+                },
+                {
+                    "id": "_c5p13",
+                    "name": "4 Wheel Door Runner",
+                    "title": "4 Wheel Door Runner",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.WDR4"
+                },
+                {
+                    "id": "_c5p14",
+                    "name": "8 Wheel Door Runner",
+                    "title": "8 Wheel Door Runner",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.WDR4"
+                },
+                {
+                    "id": "_c5p15",
+                    "name": "8 Wheel Door Runner With Soft Close",
+                    "title": "8 Wheel Door Runner With Soft Close",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SCR8"
+                },
+                {
+                    "id": "_c5p16",
+                    "name": "C Type Sliding Track",
+                    "title": "C Type Sliding Track",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SLCT"
+                }
+            ]
+        },
+        {
+            "id": "_cat6",
+            "uuid": "lock_serise",
+            "name": "Lock Serise",
+            "image": "https://drive.google.com/uc?export=view&id=1siDaNUxtPzcEg85c8tkgMnciBOrNYj8l",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c6p1",
+                    "name": "Cylindrical Lock",
+                    "title": "Cylindrical Lock",
+                    "description": "",
+                    "price": "",
+                    "product_code": ""
+                },
+                {
+                    "id": "_c6p2",
+                    "name": "Drawer Lock",
+                    "title": "Drawer Lock",
+                    "description": "",
+                    "price": "",
+                    "product_code": ""
+                },
+                {
+                    "id": "_c6p3",
+                    "name": "Wardrobe Universal Lock",
+                    "title": "Wardrobe Universal Lock",
+                    "description": "",
+                    "price": "",
+                    "product_code": ""
+                },
+                {
+                    "id": "_c6p4",
+                    "name": "Push Lock",
+                    "title": "Push Lock",
+                    "description": "",
+                    "price": "",
+                    "product_code": ""
+                }
+            ]
+        },
+        {
+            "id": "_cat7",
+            "uuid": "drawer_slide",
+            "name": "Drawer Slide",
+            "image": "https://drive.google.com/uc?export=view&id=1g3hn9zAOBSSQLL54T3CeXx__uihTllM1",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c7p1",
+                    "name": "Extra Premium Telescopic Channel",
+                    "title": "Extra Premium Telescopic Channel",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.MSTC.31"
+                },
+                {
+                    "id": "_c7p2",
+                    "name": "SS Telescopic Channel",
+                    "title": "SS Telescopic Channel",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SSTC.32"
+                },
+                {
+                    "id": "_c7p3",
+                    "name": "Extra Premium Telescopic Channel with soft close",
+                    "title": "Extra Premium Telescopic Channel with soft close",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SCTC.33"
+                }
+            ]
+        },
+        {
+            "id": "_cat8",
+            "uuid": "storage_system",
+            "name": "Storage System",
+            "image": "https://drive.google.com/uc?export=view&id=14Uwd9X5PZRtDjQBh7xN7VlZoSbO457zT",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c8p1",
+                    "name": "BI - Fold Lift Up",
+                    "title": "BI - Fold Lift Up",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.BFSC.44"
+                },
+                {
+                    "id": "_c8p2",
+                    "name": "Hydraulic Bed Fitting",
+                    "title": "Hydraulic Bed Fitting",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.BF55.42"
+                },
+                {
+                    "id": "_c8p3",
+                    "name": "Gas Pump",
+                    "title": "Gas Pump",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.GP10.43"
+                },
+                {
+                    "id": "_c8p4",
+                    "name": "Single List Up",
+                    "title": "Single List Up",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SLSC.45"
+                },
+                {
+                    "id": "_c8p5",
+                    "name": "Ms push Magnet",
+                    "title": "Ms push Magnet",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.MSPM.46"
+                },
+                {
+                    "id": "_c8p6",
+                    "name": "Pvc Push Magnet",
+                    "title": "Pvc Push Magnet",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.MSPM.47"
+                }
+            ]
+        },
+        {
+            "id": "_cat9",
+            "uuid": "alluminium_handle",
+            "name": "Alluminium Handle",
+            "image": "https://drive.google.com/uc?export=view&id=1U9Ha0l1f74KXlgA4tk7mPlB7nlUCcSQX",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c9p1",
+                    "name": "Profile Handle",
+                    "title": "Profile Handle",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.ALPH"
+                },
+                {
+                    "id": "_c9p2",
+                    "name": "Door handle",
+                    "title": "Door handle",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.ALPH.3000"
+                }
+            ]
+        },
+        {
+            "id": "_cat10",
+            "uuid": "alluminium_handle_profile",
+            "name": "Alluminium Handle Profile",
+            "image": "https://drive.google.com/uc?export=view&id=1JZYCDMZWqpS0EZg_PQWecE9P4UiNecbQ",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c10p1",
+                    "name": "G Handle Profile",
+                    "title": "G Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.HPAP.51"
+                },
+                {
+                    "id": "_c10p2",
+                    "name": "J Handle Profile",
+                    "title": "J Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.HPAP.52"
+                },
+                {
+                    "id": "_c10p3",
+                    "name": "J Handle Profile",
+                    "title": "J Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.HPAP.53"
+                },
+                {
+                    "id": "_c10p4",
+                    "name": "F Handle Profile",
+                    "title": "F Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.HPAP.54"
+                },
+                {
+                    "id": "_c10p5",
+                    "name": "L Gola Handle Profile",
+                    "title": "L Gola Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.HPAP.55"
+                },
+                {
+                    "id": "_c10p6",
+                    "name": "C Gola Handle Profile",
+                    "title": "C Gola Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.HPAP.56"
+                }
+            ]
+        },
+        {
+            "id": "_cat11",
+            "uuid": "alluminium_glass_profile",
+            "name": "Alluminium Glass Profile",
+            "image": "https://drive.google.com/uc?export=view&id=1ofcJULmLHbUAslFUZRk2pCzPbA91lbf0",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c11p1",
+                    "name": "72 mm Frame Profile",
+                    "title": "72 mm Frame Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.57"
+                },
+                {
+                    "id": "_c11p2",
+                    "name": "Top & Bottom Profile",
+                    "title": "Top & Bottom Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.58"
+                },
+                {
+                    "id": "_c11p3",
+                    "name": "Handle",
+                    "title": "Handle",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.59"
+                },
+                {
+                    "id": "_c11p4",
+                    "name": "50 mm Frame Profile",
+                    "title": "50 mm Frame Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.60"
+                },
+                {
+                    "id": "_c11p5",
+                    "name": "72 mm Frame Handle Profile",
+                    "title": "72 mm Frame Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.61"
+                },
+                {
+                    "id": "_c11p6",
+                    "name": "45 mm Frame Profile",
+                    "title": "45 mm Frame Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.62"
+                },
+                {
+                    "id": "_c11p7",
+                    "name": "67 mm Frame Handle Profile",
+                    "title": "67 mm Frame Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.63"
+                },
+                {
+                    "id": "_c11p8",
+                    "name": "78 mm G Frame Handle Profile",
+                    "title": "78 mm G Frame Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.64"
+                },
+                {
+                    "id": "_c11p9",
+                    "name": "45 mm Frame Handle Profile",
+                    "title": "45 mm Frame Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.65"
+                },
+                {
+                    "id": "_c11p10",
+                    "name": "45 mm Frame Profile",
+                    "title": "45 mm Frame Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.66"
+                },
+                {
+                    "id": "_c11p11",
+                    "name": "71 mm Frame Handle Profile",
+                    "title": "71 mm Frame Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.67"
+                },
+                {
+                    "id": "_c11p12",
+                    "name": "45 mm Frame Profile",
+                    "title": "45 mm Frame Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.68"
+                },
+                {
+                    "id": "_c11p13",
+                    "name": "71 mm Frame Handle Profile",
+                    "title": "71 mm Frame Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.69"
+                },
+                {
+                    "id": "_c11p14",
+                    "name": "45 mm Frame Profile",
+                    "title": "45 mm Frame Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.70"
+                },
+                {
+                    "id": "_c11p15",
+                    "name": "67 mm Frame Handle Profile",
+                    "title": "67 mm Frame Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.71"
+                },
+                {
+                    "id": "_c11p16",
+                    "name": "45 mm Frame Profile",
+                    "title": "45 mm Frame Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.72"
+                },
+                {
+                    "id": "_c11p17",
+                    "name": "71 mm Frame Handle Profile",
+                    "title": "71 mm Frame Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.73"
+                },
+                {
+                    "id": "_c11p18",
+                    "name": "22 mm Frame Profile",
+                    "title": "22 mm Frame Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.74"
+                },
+                {
+                    "id": "_c11p19",
+                    "name": "22 mm Frame Handle Profile",
+                    "title": "22 mm Frame Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.75"
+                },
+                {
+                    "id": "_c11p20",
+                    "name": "20 mm Frame Profile",
+                    "title": "20 mm Frame Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.76"
+                },
+                {
+                    "id": "_c11p21",
+                    "name": "43 mm Frame Handle Profile",
+                    "title": "43 mm Frame Handle Profile",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.SHAP.77"
+                }
+            ]
+        },
+        {
+            "id": "_cat12",
+            "uuid": "alluminium_inlay_profile",
+            "name": "Alluminium Inlay Profile",
+            "image": "https://drive.google.com/uc?export=view&id=17PakXefiUzCQCV8h6wc-o3pTXAkjl79k",
+            "description": "The well-made DTC integrated soft-close hinges fit with various cabinet doors, supporting and facilitating designers ideas.PIVOT-STAR series won German IF PRODUCT DESIGN AWARD,which the speed adjustable soft-close is an innovative breakthrough.",
+            "products": [
+                {
+                    "id": "_c12p1",
+                    "name": "T Patti 6 mm",
+                    "title": "T Patti 6 mm",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.TPAP.78"
+                },
+                {
+                    "id": "_c12p2",
+                    "name": "T Patti 8 mm",
+                    "title": "T Patti 8 mm",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.TPAP.79 "
+                },
+                {
+                    "id": "_c12p3",
+                    "name": "T Patti 12 mm",
+                    "title": "T Patti 12 mm",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.TPAP.80"
+                },
+                {
+                    "id": "_c12p4",
+                    "name": "Edge Profile 22 mm",
+                    "title": "Edge Profile 22 mm",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.TPAP.81"
+                },
+                {
+                    "id": "_c12p5",
+                    "name": "Edge Profile 25 mm",
+                    "title": "Edge Profile 25 mm",
+                    "description": "",
+                    "price": "",
+                    "product_code": "VI.TPAP.78"
+                }
+            ]
+        }
+    ]
+}

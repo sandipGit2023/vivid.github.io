@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>catalogue</title>
+    <style>
+        body {
+            overflow: hidden;
+        }
+
+        .pdfobject-container {
+            height: 100vh;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="pdf-viewer"></div>
+
+    <script src="../Public/js/jquery.min.js"></script>
+    <script src="../Public/js/pdfobject.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var options = {
+                pdfOpenParams: {
+                    pagemode: "thumbs",
+                    navpanes: 0,
+                    toolbar: 1,
+                    statusbar: 1,
+                    view: "Fit",
+                    pagemode: "none",
+                    zoom: "auto",
+                },
+                fallbackLink: "<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href='your-pdf-file.pdf'>Download PDF</a></p>"
+            };
+
+            PDFObject.embed("../Public/catalogue/catalogue.pdf", "#pdf-viewer", options);
+        });
+
+    </script>
+</body>
+
+</html>

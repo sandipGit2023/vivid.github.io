@@ -1,0 +1,28 @@
+{
+    "address" : "2, He An Industry Rd.1, Dongfeng, Leliu, Shunde, Foshan, Guangdong, China",
+    "phone" : "+91 1234567890",
+    "email" : "info@vvid.com",
+    "solution" : "From living to working space, a full range of furniture hardware customization makes the interaction between human life and space more harmonious.",
+    "social" : [
+        {
+            "name" : "youtub",
+            "icon" : "https://en.dtcdtc.com/Public/www/images/YouTube.svg",
+            "url" : ""
+        },
+        {
+            "name" : "linkedIn",
+            "icon" : "https://en.dtcdtc.com/Public/www/images/LinkedIn.svg",
+            "url" : ""
+        },
+        {
+            "name" : "facebook",
+            "icon" : "https://en.dtcdtc.com/Public/www/images/2-facebook.svg",
+            "url" : ""
+        },
+        {
+            "name" : "instagram",
+            "icon" : "https://en.dtcdtc.com/Public/www/images/Instagram.svg",
+            "url" : ""
+        }
+    ]
+}

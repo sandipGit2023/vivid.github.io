@@ -1,0 +1,34 @@
+{
+    "header" : {
+        "title" : "DTC Dongtai Overseas Sales Area",
+        "description" : "DTC Dongtai products are sold to 106 countries and regions. On this map you can locate the corresponding business contacts or distributors"
+    },
+    "contacts" : {
+        "address" : "2, He An Industry Rd.1, Dongfeng, Leliu, Shunde, Foshan, Guangdong, China",
+        "web" : "http://www.vvid.com",
+        "email" : "info@vvid.com",
+        "phone" : "+91 1234567890"
+    },
+    "social" : [
+        {
+            "name" : "youtub",
+            "icon" : "iconfont icon-youtube",
+            "url" : ""
+        },
+        {
+            "name" : "linkedIn",
+            "icon" : "iconfont icon-linkedin0",
+            "url" : ""
+        },
+        {
+            "name" : "facebook",
+            "icon" : "iconfont icon-facebook",
+            "url" : ""
+        },
+        {
+            "name" : "instagram",
+            "icon" : "iconfont icon-sr_instagram",
+            "url" : ""
+        }
+    ]
+}
