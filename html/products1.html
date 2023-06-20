@@ -249,8 +249,6 @@
         lanjiazai()
 
         //header dynamic cat and product
-        const perPagedata = 12;
-        $(".btn-load-more").css("display", "none")
         fetch('../Json/catagorys.json')
             .then(res => res.json())
             .then(data => {
@@ -286,14 +284,25 @@
                             </li>`
                         );
                     }
+                });
+            })
 
-                    if (catagorys.length > perPagedata) {
-                        $(".btn-load-more").css("display", "")
-                        $('.pagingClick').css("display", "block")
-                        $('#products').attr("data-total-page", Math.round(catagorys.length / perPagedata))
-                    }
 
-                    let currentPage = 1;
+        //dynamic product fetch
+        const perPagedata = 12;
+        $(".btn-load-more").css("display", "none")
+        fetch('../Json/products.json')
+            .then(res => res.json())
+            .then(data => {
+                let { products } = data
+                // show pagination if product is more then 12
+                if (products.length > perPagedata) {
+                    $(".btn-load-more").css("display", "")
+                    $('.pagingClick').css("display", "block")
+                    $('#products').attr("data-total-page", Math.round(products.length / perPagedata))
+                }
+                let currentPage = 1;
+                products.map((pro, i) => {
                     if (i > (perPagedata * currentPage)) { // increase page
                         currentPage++
                     }
@@ -301,9 +310,9 @@
                     if (i < perPagedata) { // show first 12 product
                         $('#products').append(
                             `<div class="col-md-4 a">
-                                <a href="./categories-products.html" class="category-prodcuts" data-cat-id="${cat.id}">
-                                    <div class="img"><img src="${cat.image}" alt="${cat.name}" /></div>
-                                    <div class="title"><p>${cat.name}</p></div>
+                                <a href="./single-product.html" class="view-product" data-product-id="${pro.id}" title="${pro.title ? pro.title : pro.name}">
+                                    <div class="img"><img src="${pro.image}" alt="${pro.name}" /></div>
+                                    <div class="title"><p>${pro.name}</p></div>
                                 </a>
                             </div>`
                         )
@@ -311,15 +320,15 @@
                         if (i < (perPagedata * currentPage)) {
                             $('#products').append(
                                 `<div class="col-md-4 a" data-id="set-${currentPage}" style="display: none;">
-                                    <a href="./categories-products.html" class="category-prodcuts" data-cat-id="${cat.id}">
-                                        <div class="img"><img src="${cat.image}" alt="${cat.name}" /></div>
-                                        <div class="title"><p>${cat.name}</p></div>
+                                    <a href="./single-product.html" class="view-product" data-product-id="${pro.id}" title="${pro.title ? pro.title : pro.name}">
+                                        <div class="img"><img src="${pro.image}" alt="${pro.name}" /></div>
+                                        <div class="title"><p>${pro.name}</p></div>
                                     </a>
                                 </div>`
                             )
                         }
                     }
-                });
+                })
             })
 
             $(".btn-load-more").on("click", function () {

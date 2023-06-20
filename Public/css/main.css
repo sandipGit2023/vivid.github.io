@@ -2011,7 +2011,8 @@ section .yige-productRead .total .all .a {
 section .yige-productRead .total .all .a .img {
     display: flex;
     max-height: 330px;
-    min-height: 330px;
+    min-height: 270px;
+    max-height: 270px;
     flex-flow: column;
     align-items: center;
     justify-content: center;
@@ -4503,7 +4504,7 @@ yige-footer .footer .yige-total .a:nth-child(2) .btnA:hover {
     }
 
     yige-header .navs .logo img {
-        width: 50%
+        width: 25%
     }
 
     section .yige-productForm .total .list button {
